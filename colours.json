@@ -1,0 +1,20 @@
+{
+    "red" : "FF0000",
+    "dark_red" : "7F0000",
+    "light_blue" : "2fcee9",
+    "blue" : "3399FF",
+    "dark_blue" : "000080",
+    "light_green" : "CEE92F",
+    "green" : "2FE94A",
+    "dark_green" : "065535",
+    "purple" : "A72FE9",
+    "dark_purple" : "42125d",
+    "black" : "000000",
+    "white" : "ffffff",
+    "yellow" : "ffd700",
+    "dark_yellow" : "e9a72f",
+    "cream" : "ffd2ab",
+    "pink" : "ff748c",
+    "grey" : "c0c0c0"
+ 
+}

@@ -1,0 +1,17 @@
+{
+  "name": "scorbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node src/index.js",
+    "start": "node src/index.js"
+  },
+  "author": "SCORED",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.1.1",
+    "nodemon": "^2.0.1"
+  }
+}
