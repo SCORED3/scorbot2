@@ -3,7 +3,7 @@ const ms = require("ms");
 const MUTED_ROLE = '694846710945415168';
 
 const bot = new Discord.Client({disableEveryone: true});
-const token = "Njk0MTU5NTIyNDg2Mjg4NDQ0.Xq9UKQ.lWVIJUfNbHzniXWmUbHuzDO3st8";
+const token = "Njk0MTU5NTIyNDg2Mjg4NDQ0.XuTJlQ.dnBwhaY3D9RNQMkOGOtlCAtDJoo";
 
 const colours = require("./colours.json");
 const prefix = "!";
